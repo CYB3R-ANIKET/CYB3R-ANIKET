@@ -12,6 +12,7 @@ I have hands-on commands in Red hat Linux. And I have used Kali Linux, and Parro
 I have knowledge of Ethical hacking tools and Penetration testing methodologies etc.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 You can reach me through Linkedin - www.linkedin.com/in/cyberwarrior-aniket
+
 My CV - [Canva Resume - 1.pdf](https://github.com/CYB3R-ANIKET/CYB3R-ANIKET/files/9847205/Canva.Resume.-.1.pdf)
 
 
