@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aniket Aggarwal
-- 👀 I’m interested in Cyber Security Domain, Python Software Eng, ML & AI.
+- 👀 I’m interested in Cyber Security Domain, Network Security, Network Engineer.
 - 🌱 I’m currently pursuing one-year master's diploma in information security / Cyber security from Craw Security.
 - Pursuing my 3rd-year graduation in a Bachelor's of Business Academics in Retailing (BBARL).
 I have done certifications from Craw security as:-
